@@ -6,8 +6,8 @@ import time
 
 # Change the values according to your needs
 b = Bridge('192.168.1.71')
-client_id = '97016c2bcd7b4b08959a1af430a85900' #Your spotify client id, get one from https://developer.spotify.com/dashboard
-client_secret = '71b02e35dc344bff9dc50a563b165c03' #Your spotify client secret, get one from https://developer.spotify.com/dashboard
+client_id = '' #Your spotify client id, get one from https://developer.spotify.com/dashboard
+client_secret = '' #Your spotify client secret, get one from https://developer.spotify.com/dashboard
 lights_to_change = ['Setup', 'Tv', 'Setup', 'Kast', 'Bed zijkant', 'Bed', 'Bed achter'] #The lights you want to change
 
 # Connect to the spotify api
